@@ -1,0 +1,127 @@
+.table_Row {
+  display: flex;
+}
+
+table {
+  width: 100%;
+  th,
+  td {
+    padding: 20px;
+    padding-right: 0px;
+  }
+}
+
+.approve-reject-div {
+  margin-top: 110px;
+  margin-left: 100px;
+}
+
+.logo-alignment {
+  cursor: pointer;
+  margin-bottom: 40px;
+}
+
+.reject-btn {
+  margin-right: 20px;
+  border: 2px solid red;
+  border-radius: 10px;
+  color: red;
+  padding-right: 15px;
+  padding-left: 15px;
+  background-color: white;
+}
+
+.approve-btn {
+  margin-right: 20px;
+  border: 2px solid red;
+  border-radius: 10px;
+  background-color: red;
+  color: white;
+  padding-right: 10px;
+}
+.information-title {
+  font-weight: bold;
+  font-size: 23px;
+  margin-top: 10px;
+  margin-left: 330px;
+  margin-right: 330px;
+}
+.information-div {
+  border: 1px solid black;
+  margin-left: 10px;
+  margin-left: 330px;
+  margin-right: 330px;
+}
+
+.main-title {
+  font-weight: bold;
+  font-size: 23px;
+  margin-top: 10px;
+  margin-left: 330px;
+  margin-right: 330px;
+}
+
+.table-data {
+  padding: 20px;
+}
+
+.text-area {
+  width: 100%;
+  height: 70px;
+}
+
+.submit-btn {
+  color: white;
+  background-color: #e83b3b;
+  border: 1px solid #e83b3b;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 20px;
+  margin-top: 10px;
+  direction: right;
+}
+
+.rejection-title {
+  font-size: 23px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.information-p {
+  font-weight: bold;
+  margin-bottom: 0px;
+  padding-left: 10px;
+}
+.information-data {
+  padding-left: 10px;
+}
+
+.tableDocuments {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.send-btn {
+  display: flex;
+  justify-content: flex-end;
+
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 14px;
+}
+.table-document {
+  margin-left: 330px;
+  margin-right: 330px;
+}
+.reject-center {
+  margin-left: 330px;
+  margin-right: 330px;
+}
+
+.informationSection {
+  display: flex;
+  margin-top: 20px;
+}
+.informationSection2 {
+  margin-left: 600px;
+}
